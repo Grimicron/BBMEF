@@ -8,5 +8,6 @@
   "item.bbmef.methylamine": "Methylamine",
   "block.bbmef.pure_meth_box": "Pure Meth Box",
   "block.bbmef.impure_meth_box": "Impure Meth Box",
-  "itemGroup.bbmef_tab": "Breaking Bad: Meth Empire"
+  "itemGroup.bbmef_tab": "Breaking Bad: Meth Empire",
+  "entity.minecraft.villager.bbmef.meth_head": "Meth Head"
 }

@@ -1,6 +1,7 @@
 package com.mls.bbmef.item;
 
 import com.mls.bbmef.BBMEF;
+import com.mls.bbmef.item.custom.PureBaggedMethItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -21,7 +22,7 @@ public class ModItems {
     public static final RegistryObject<Item> METHYLAMINE = ITEMS.register("methylamine",
             () -> new Item(new Item.Properties().tab(ModTabs.BBMEF_TAB)));
     public static final RegistryObject<Item> PURE_BAGGED_METH = ITEMS.register("pure_bagged_meth",
-            () -> new Item(new Item.Properties().tab(ModTabs.BBMEF_TAB)));
+            () -> new PureBaggedMethItem(new Item.Properties().tab(ModTabs.BBMEF_TAB)));
     public static final RegistryObject<Item> IMPURE_BAGGED_METH = ITEMS.register("impure_bagged_meth",
             () -> new Item(new Item.Properties().tab(ModTabs.BBMEF_TAB)));
 
