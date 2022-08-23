@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bbmef:impure_bagged_meth"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "bbmef:impure_meth"
+  }
+}

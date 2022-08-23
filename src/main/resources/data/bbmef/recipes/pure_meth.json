@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bbmef:methylamine"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "bbmef:impure_meth"
+    }
+  ],
+  "result": {
+    "item": "bbmef:pure_meth"
+  }
+}

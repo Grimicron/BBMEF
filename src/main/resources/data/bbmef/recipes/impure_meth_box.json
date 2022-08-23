@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    },
+    {
+      "item": "bbmef:impure_bagged_meth"
+    }
+  ],
+  "result": {
+    "item": "bbmef:impure_meth_box"
+  }
+}

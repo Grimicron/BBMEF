@@ -1,0 +1,12 @@
+{
+  "item.bbmef.pure_bagged_meth": "Pure Bagged Meth",
+  "item.bbmef.impure_bagged_meth": "Impure Bagged Meth",
+  "item.bbmef.pure_meth": "Pure Meth",
+  "item.bbmef.impure_meth": "Impure Meth",
+  "item.bbmef.plastic_bag": "Plastic Bag",
+  "item.bbmef.plastic": "Plastic",
+  "item.bbmef.methylamine": "Methylamine",
+  "block.bbmef.pure_meth_box": "Pure Meth Box",
+  "block.bbmef.impure_meth_box": "Impure Meth Box",
+  "itemGroup.bbmef_tab": "Breaking Bad: Meth Empire"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "bbmef:block/impure_meth_box_bottom",
+    "east": "bbmef:block/impure_meth_box_side",
+    "north": "bbmef:block/impure_meth_box_side",
+    "south": "bbmef:block/impure_meth_box_side",
+    "up": "bbmef:block/impure_meth_box_top",
+    "west": "bbmef:block/impure_meth_box_side",
+    "particle": "bbmef:block/impure_meth_box_top"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "bbmef:plastic"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    ".": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+  " X ",
+  "#.#",
+  "###"
+  ],
+  "result": {
+    "item": "bbmef:methylamine"
+  }
+}

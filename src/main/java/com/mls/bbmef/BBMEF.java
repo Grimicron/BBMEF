@@ -1,5 +1,7 @@
 package com.mls.bbmef;
 
+import com.mls.bbmef.block.ModBlocks;
+import com.mls.bbmef.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,6 +22,8 @@ public class BBMEF
     public BBMEF()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }
